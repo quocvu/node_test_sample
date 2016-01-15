@@ -1,0 +1,32 @@
+{
+  "name": "node_test_sample",
+  "version": "1.0.0",
+  "description": "A sample test to try out TravisCI, etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quocvu/node_test_sample.git"
+  },
+  "keywords": [
+    "test",
+    "experiment"
+  ],
+  "author": "Quoc Vu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quocvu/node_test_sample/issues"
+  },
+  "homepage": "https://github.com/quocvu/node_test_sample#readme",
+  "dependencies": {
+    "commander": "~2.9.0",
+    "config": "~1.19.0"
+  },
+  "devDependencies": {
+    "mocha": "~2.3.4",
+    "should": "~8.1.1",
+    "sinon": "~1.17.2"
+  }
+}
