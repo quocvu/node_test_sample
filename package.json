@@ -21,10 +21,7 @@
     "url": "https://github.com/quocvu/node_test_sample/issues"
   },
   "homepage": "https://github.com/quocvu/node_test_sample#readme",
-  "dependencies": {
-    "commander": "~2.9.0",
-    "config": "~1.19.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "coveralls": "^2.11.6",
     "istanbul": "^0.4.2",

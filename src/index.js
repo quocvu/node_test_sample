@@ -1,8 +1,5 @@
 'use strict';
 
-var config = require('config'),
-  command = require('commander');
-
 module.exports = {
   older: function (a, b) {
     if (a.age > b.age) {
