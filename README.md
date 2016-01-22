@@ -2,4 +2,5 @@
 [![Coverage Status](https://coveralls.io/repos/github/quocvu/node_test_sample/badge.svg?branch=master)](https://coveralls.io/github/quocvu/node_test_sample?branch=master)
 
 # node_test_sample
-sample node test app
+
+A Simple Node app showing how to hook up TravisCI and Coveralls to run and publish unit tests code coverage
